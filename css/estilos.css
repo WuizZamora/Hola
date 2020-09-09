@@ -1,0 +1,39 @@
+body 
+{
+    background-color: #bbdefb;
+    color: blue;
+    text-align: center;
+    font-family : "Arial";
+    font-size: 20px;
+    margin: 2px;
+    border: 2px;
+}
+
+#head 
+{
+text-align: center;
+font: bold;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+background: #ff8a80;
+color: whitesmoke;
+margin 0px;
+padding: 0 5px;
+}
+
+#container
+{
+width: auto;
+padding: 5px;
+text-align: left;
+border: 3px solid red;
+}
+
+#container h1
+{
+    font-size: 25px;
+}
+
+#post{
+    margin: 0px;
+
+}
