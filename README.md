@@ -1,6 +1,5 @@
 # Hola 👌 💙
-Este es mi primer proyecto de Git y GitHub del curso de [platzi][platzi].
-[platzi]: https://platzi.com/ "platzi"
+Este es mi primer proyecto de Git y GitHub del curso de platzi.
 
 > EL CURSO DE GIT Y GITHUB DE PLATZI ES UNA MARAVILLA, DONDE APRENDES A USAR UNAS GRANDIOSAS HERRAMIENTAS DE TRABAJO Y LOS MORTALES, COMO SU SERVIDOR, QUEDARON TOTALMENTE SORPRENDIDOS EN TODO LO APRENDIDO EN ESTE CURSO.
 > - LUIS ZAMORA 2020
