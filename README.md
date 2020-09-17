@@ -9,6 +9,7 @@ En este grandioso curso aprendes:
 - El flujo de trabajo de Github
 - Aprendes trucos muy chidos 
 - Utilizar la terminal 
+- Creado por el equipo de platzi
 
 ------------
 
