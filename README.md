@@ -10,6 +10,7 @@ En este grandioso curso aprendes:
 - Aprendes trucos muy chidos 
 - Utilizar la terminal 
 - Creado por el equipo de platzi
+- Incluye en los 3 OS mas conocidos
 
 ------------
 
