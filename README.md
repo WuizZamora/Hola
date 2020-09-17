@@ -11,6 +11,7 @@ En este grandioso curso aprendes:
 - Utilizar la terminal 
 - Creado por el equipo de platzi
 - Incluye en los 3 OS mas conocidos
+- Disponible ahora 
 
 ------------
 
