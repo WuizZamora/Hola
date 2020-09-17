@@ -37,3 +37,13 @@ border: 3px solid red;
     margin: 0px;
 
 }
+
+#footer{
+text-align: center;
+font: bold;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+background: #ff8a80;
+color: whitesmoke;
+margin 0px;
+padding: 0 5px;
+}
